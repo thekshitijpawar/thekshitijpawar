@@ -4,6 +4,7 @@ My MSc is from Fergusson College, Pune. Before that, I did my BSc at Ruia Colleg
 
 ## What I'm working on
 Galactic dynamics @ Tartu Observatory — I started this project trying to compare predicted vs observed Milky Way rotation curves. Somewhere along the way it turned into Galactic Chemical Evolution, and now I'm running GalCEM simulations to model the disk's accretion history. Research has a way of doing that.
+
 Spectral synthesis @ Vilnius University — Building a wrapper around Turbospectrum (TS_NLTE) with MARCS model atmospheres. Right now I'm deep in the interpolation routine for generating atmosphere models at arbitrary stellar parameters. Tedious but satisfying.
 
 ## Past work I'm glad I did:
